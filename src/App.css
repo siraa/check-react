@@ -1,0 +1,29 @@
+
+/* 
+.me-auto {
+  width: 30%;
+  float: right;
+  justify-content: center;
+  margin-top: 2%;
+ 
+}
+
+.me-auto a{
+  text-decoration:none;
+  color: #747474;
+  } */
+
+  .navbar-collapse {
+    margin-left: 750px;
+  }
+
+
+ .form{
+   width:80%;
+   margin:auto;
+   padding:10px;
+ }
+
+.form-label{
+  color: blue;
+}
